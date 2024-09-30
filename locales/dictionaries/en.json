@@ -1,0 +1,39 @@
+{
+  "common": {
+    "app": "etoN",
+    "slogan": "A minimalistic note-taking app for everyone.",
+    "navigation": {
+      "home": "Homepage",
+      "back": "Go back"
+    },
+    "error": {
+      "sthWrong": "Something went wrong!"
+    },
+    "action": {
+      "tryAgain": "Try again"
+    }
+  },
+  "auth": {
+    "login": "Login",
+    "signIn": {
+      "withGoogle": "Sign in with Google"
+    },
+    "signOut": "Sign Out"
+  },
+  "homepage": {
+    "title": "Imagine a home page here 🏡"
+  },
+  "admin": {
+    "title": "Admin Portal",
+    "description": "Admin Portal of {serviceName} - {slogan}",
+    "users": {
+      "title": "User Management"
+    }
+  },
+  "note": {
+    "title": "Notes",
+    "about": {
+      "title": "About etoN"
+    }
+  }
+}

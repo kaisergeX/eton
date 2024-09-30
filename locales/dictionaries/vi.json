@@ -1,0 +1,39 @@
+{
+  "common": {
+    "app": "etoN",
+    "slogan": "Ứng dụng ghi chú thông minh dành cho mọi người.",
+    "navigation": {
+      "home": "Trang chủ",
+      "back": "Quay lại"
+    },
+    "error": {
+      "sthWrong": "Có gì đó sai sai!"
+    },
+    "action": {
+      "tryAgain": "Thử lại"
+    }
+  },
+  "auth": {
+    "login": "Đăng nhập",
+    "signIn": {
+      "withGoogle": "Đăng nhập bằng Google"
+    },
+    "signOut": "Đăng xuất"
+  },
+  "homepage": {
+    "title": "🏡 Tưởng tượng một trang giới thiệu rất fancy"
+  },
+  "admin": {
+    "title": "Trang Quản trị",
+    "description": "Trang quản trị của {serviceName} - {slogan}",
+    "users": {
+      "title": "Quản lý người dùng"
+    }
+  },
+  "note": {
+    "title": "Ghi chú",
+    "about": {
+      "title": "Thông tin ứng dụng etoN"
+    }
+  }
+}
